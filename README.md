@@ -5,4 +5,6 @@ winterm
 </h1>
 The obfuscated windows terminal files for use on any OS.
 
+(the arm64 version)
+
 </div>
